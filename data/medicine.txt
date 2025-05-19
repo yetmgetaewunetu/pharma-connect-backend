@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Paracetamol",
+    "description": "Used to treat mild to moderate pain and reduce fever.",
+    "category": "Analgesics",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Paracetamol_500_mg_pills.jpg"
+  },
+  {
+    "name": "Ibuprofen",
+    "description": "Anti-inflammatory medicine used for pain relief.",
+    "category": "Analgesics",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ibuprofen_tablets.jpg"
+  },
+  {
+    "name": "Amoxicillin",
+    "description": "Antibiotic used to treat various bacterial infections.",
+    "category": "Antibacterial",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Amoxicillin_500mg_capsules.jpg"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "description": "Broad-spectrum antibiotic for treating infections.",
+    "category": "Antibacterial",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ciprofloxacin_250mg.jpg"
+  },
+  {
+    "name": "Omeprazole",
+    "description": "Used to treat acid reflux and stomach ulcers.",
+    "category": "Antiulcer Agents",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Omeprazole_20mg_capsules.jpg"
+  },
+  {
+    "name": "Metronidazole",
+    "description": "Treats anaerobic bacterial and protozoal infections.",
+    "category": "Antiprotozoals",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Metronidazole_tablets.jpg"
+  },
+  {
+    "name": "Ranitidine",
+    "description": "Reduces stomach acid to treat ulcers and heartburn.",
+    "category": "Antiulcer Agents",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ranitidine_tablets.jpg"
+  },
+  {
+    "name": "Salbutamol",
+    "description": "Relieves bronchospasm in asthma and COPD.",
+    "category": "Bronchodilators",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Salbutamol_inhaler.jpg"
+  },
+  {
+    "name": "Amlodipine",
+    "description": "Used to manage high blood pressure and angina.",
+    "category": "Antihypertensives",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Amlodipine_10mg_tablets.jpg"
+  },
+  {
+    "name": "Losartan",
+    "description": "Used to treat hypertension and protect kidney function.",
+    "category": "Antihypertensives",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Losartan_50mg_tablets.jpg"
+  },
+  {
+    "name": "Ceftriaxone",
+    "description": "A third-generation cephalosporin antibiotic.",
+    "category": "Antibacterial",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ceftriaxone_injection.jpg"
+  },
+  {
+    "name": "Insulin",
+    "description": "Hormone used to control blood sugar levels in diabetes.",
+    "category": "Diabetes Management",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Insulin_vial_and_syringe.jpg"
+  },
+  {
+    "name": "Prednisolone",
+    "description": "Steroid for reducing inflammation and suppressing immunity.",
+    "category": "Corticosteroids",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Prednisolone_tablets.jpg"
+  },
+  {
+    "name": "Dexamethasone",
+    "description": "Potent anti-inflammatory and immunosuppressant.",
+    "category": "Corticosteroids",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dexamethasone_tablets.jpg"
+  },
+  {
+    "name": "Chloroquine",
+    "description": "Used to prevent and treat malaria.",
+    "category": "Antimalarials",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chloroquine_tablets.jpg"
+  },
+  {
+    "name": "Artemether",
+    "description": "Combined with Lumefantrine for malaria treatment.",
+    "category": "Antimalarials",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Artemether_lumefantrine.jpg"
+  },
+  {
+    "name": "Folic Acid",
+    "description": "Vitamin supplement essential for red blood cell production.",
+    "category": "Vitamins",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Folic_acid_tablets.jpg"
+  },
+  {
+    "name": "Ascorbic Acid",
+    "description": "Vitamin C supplement to boost immunity.",
+    "category": "Vitamins",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ascorbic_acid_tablets.jpg"
+  },
+  {
+    "name": "Ketoconazole",
+    "description": "Antifungal medication for skin and scalp infections.",
+    "category": "Antifungals",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ketoconazole_shampoo.jpg"
+  },
+  {
+    "name": "Nystatin",
+    "description": "Antifungal used for treating Candida infections.",
+    "category": "Antifungals",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Nystatin_oral_suspension.jpg"
+  }
+]
+
+
+
+
+
+[
+  {
+    "name": "Amoxicillin",
+    "description": "Antibiotic used to treat bacterial infections.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/amoxicillin.jpg"
+  },
+  {
+    "name": "Paracetamol",
+    "description": "Pain reliever and fever reducer.",
+    "category": "Analgesic",
+    "image": "https://www.medicineimage.com/paracetamol.jpg"
+  },
+  {
+    "name": "Metronidazole",
+    "description": "Antibiotic and antiprotozoal medication.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/metronidazole.jpg"
+  },
+  {
+    "name": "Aspirin",
+    "description": "Used for pain, fever, and inflammation.",
+    "category": "NSAID",
+    "image": "https://www.medicineimage.com/aspirin.jpg"
+  },
+  {
+    "name": "Salbutamol",
+    "description": "Relieves bronchospasm in asthma.",
+    "category": "Bronchodilator",
+    "image": "https://www.medicineimage.com/salbutamol.jpg"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "description": "Broad-spectrum antibiotic.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/ciprofloxacin.jpg"
+  },
+  {
+    "name": "Doxycycline",
+    "description": "Used to treat bacterial infections.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/doxycycline.jpg"
+  },
+  {
+    "name": "Diclofenac",
+    "description": "Used to relieve pain and inflammation.",
+    "category": "NSAID",
+    "image": "https://www.medicineimage.com/diclofenac.jpg"
+  },
+  {
+    "name": "Ibuprofen",
+    "description": "Reduces pain, fever, and inflammation.",
+    "category": "NSAID",
+    "image": "https://www.medicineimage.com/ibuprofen.jpg"
+  },
+  {
+    "name": "Clotrimazole",
+    "description": "Antifungal used to treat skin infections.",
+    "category": "Antifungal",
+    "image": "https://www.medicineimage.com/clotrimazole.jpg"
+  },
+  {
+    "name": "Fluconazole",
+    "description": "Antifungal for systemic infections.",
+    "category": "Antifungal",
+    "image": "https://www.medicineimage.com/fluconazole.jpg"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "description": "Diuretic used for hypertension.",
+    "category": "Diuretic",
+    "image": "https://www.medicineimage.com/hydrochlorothiazide.jpg"
+  },
+  {
+    "name": "Losartan",
+    "description": "Treats high blood pressure.",
+    "category": "Antihypertensive",
+    "image": "https://www.medicineimage.com/losartan.jpg"
+  },
+  {
+    "name": "Omeprazole",
+    "description": "Reduces stomach acid production.",
+    "category": "Antacid",
+    "image": "https://www.medicineimage.com/omeprazole.jpg"
+  },
+  {
+    "name": "Ranitidine",
+    "description": "Reduces stomach acid.",
+    "category": "Antacid",
+    "image": "https://www.medicineimage.com/ranitidine.jpg"
+  },
+  {
+    "name": "Metformin",
+    "description": "Lowers blood sugar in diabetes.",
+    "category": "Antidiabetic",
+    "image": "https://www.medicineimage.com/metformin.jpg"
+  },
+  {
+    "name": "Insulin",
+    "description": "Hormone used to manage diabetes.",
+    "category": "Antidiabetic",
+    "image": "https://www.medicineimage.com/insulin.jpg"
+  },
+  {
+    "name": "Glibenclamide",
+    "description": "Oral medication for diabetes.",
+    "category": "Antidiabetic",
+    "image": "https://www.medicineimage.com/glibenclamide.jpg"
+  },
+  {
+    "name": "Nifedipine",
+    "description": "Calcium channel blocker for hypertension.",
+    "category": "Antihypertensive",
+    "image": "https://www.medicineimage.com/nifedipine.jpg"
+  },
+  {
+    "name": "Enalapril",
+    "description": "ACE inhibitor for high blood pressure.",
+    "category": "Antihypertensive",
+    "image": "https://www.medicineimage.com/enalapril.jpg"
+  },
+  {
+    "name": "Amoxicillin + Clavulanic Acid",
+    "description": "Antibiotic combination for resistant infections.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/amoxicillin-clavulanic.jpg"
+  },
+  {
+    "name": "Furosemide",
+    "description": "Loop diuretic for edema and hypertension.",
+    "category": "Diuretic",
+    "image": "https://www.medicineimage.com/furosemide.jpg"
+  },
+  {
+    "name": "Atorvastatin",
+    "description": "Lowers cholesterol levels.",
+    "category": "Statin",
+    "image": "https://www.medicineimage.com/atorvastatin.jpg"
+  },
+  {
+    "name": "Azithromycin",
+    "description": "Antibiotic used for bacterial infections.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/azithromycin.jpg"
+  },
+  {
+    "name": "Albendazole",
+    "description": "Treats parasitic worm infections.",
+    "category": "Anthelmintic",
+    "image": "https://www.medicineimage.com/albendazole.jpg"
+  },
+  {
+    "name": "Cotrimoxazole",
+    "description": "Antibiotic combination for various infections.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/cotrimoxazole.jpg"
+  },
+  {
+    "name": "Gentamicin",
+    "description": "Antibiotic for severe bacterial infections.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/gentamicin.jpg"
+  },
+  {
+    "name": "Propranolol",
+    "description": "Beta blocker for hypertension and anxiety.",
+    "category": "Beta Blocker",
+    "image": "https://www.medicineimage.com/propranolol.jpg"
+  },
+  {
+    "name": "Miconazole",
+    "description": "Topical antifungal.",
+    "category": "Antifungal",
+    "image": "https://www.medicineimage.com/miconazole.jpg"
+  },
+  {
+    "name": "Erythromycin",
+    "description": "Antibiotic used for bacterial infections.",
+    "category": "Antibiotic",
+    "image": "https://www.medicineimage.com/erythromycin.jpg"
+  },
+  {
+    "name": "Prednisolone",
+    "description": "Anti-inflammatory steroid.",
+    "category": "Corticosteroid",
+    "image": "https://www.medicineimage.com/prednisolone.jpg"
+  },
+  {
+    "name": "Vitamin C",
+    "description": "Boosts immune function.",
+    "category": "Vitamin",
+    "image": "https://www.medicineimage.com/vitamin-c.jpg"
+  },
+  {
+    "name": "Vitamin D",
+    "description": "For bone health and calcium absorption.",
+    "category": "Vitamin",
+    "image": "https://www.medicineimage.com/vitamin-d.jpg"
+  },
+  {
+    "name": "Chloroquine",
+    "description": "Used to treat malaria.",
+    "category": "Antimalarial",
+    "image": "https://www.medicineimage.com/chloroquine.jpg"
+  }
+]
