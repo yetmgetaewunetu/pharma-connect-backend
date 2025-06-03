@@ -8,13 +8,7 @@ const app = express();
 const cookieParser = require("cookie-parser");
 
 // Middlewares
-app.use(
-  cors({
-    origin: "https://pharma-connect-frontend.onrender.com",
-    credentials: true,
-    exposedHeaders: ["Authorization"],
-  })
-);
+app.use(cors());
 
 app.use(cookieParser());
 app.use(express.json());
