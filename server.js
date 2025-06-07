@@ -11,6 +11,7 @@ const cookieParser = require("cookie-parser");
 app.use(
   cors({
     credentials: true,
+    exposedHeaders: ["Authorization"],
   })
 );
 
