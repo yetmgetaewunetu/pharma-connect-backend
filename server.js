@@ -8,7 +8,11 @@ const app = express();
 const cookieParser = require("cookie-parser");
 
 // Middlewares
-app.use(cors());
+app.use(
+  cors({
+    credentials: true,
+  })
+);
 
 app.use(cookieParser());
 app.use(express.json());
